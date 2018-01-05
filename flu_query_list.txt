@@ -1,4 +1,5 @@
 acute bronchitis
+azithromycin
 body temperature
 braun thermoscan
 break a fever
@@ -22,6 +23,7 @@ fever flu
 fever reducer
 fevers
 fight the flu
+flu
 flu and cold
 flu and fever
 flu and pregnancy
