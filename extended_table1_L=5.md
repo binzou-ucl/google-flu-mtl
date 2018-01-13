@@ -1,13 +1,3 @@
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
-
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
@@ -21,7 +11,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.9550 | 0.9386 | 0.9583 | 0.9169 |
 | Region 9  | 0.9438 | 0.9364 | 0.9695 | 0.9375 |
 | Region 10 | 0.9564 | 0.9388 | 0.8835 | 0.8773 |
-[Correlation of EN during 4 test periods across 10 HHS regions]
+Correlation of EN during 4 test periods across 10 HHS regions
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
@@ -35,7 +25,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.9700 | 0.9669 | 0.9720 | 0.9359 |
 | Region 9  | 0.9458 | 0.9346 | 0.9825 | 0.9682 |
 | Region 10 | 0.9644 | 0.9540 | 0.9454 | 0.8573 |
-[Correlation of GP during 4 test periods across 10 HHS regions]
+Correlation of GP during 4 test periods across 10 HHS regions
 
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
@@ -50,7 +40,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.9611 | 0.9364 | 0.9450 | 0.9146 |
 | Region 9  | 0.9178 | 0.9338 | 0.9592 | 0.9503 |
 | Region 10 | 0.9592 | 0.9425 | 0.9621 | 0.8849 |
-[Correlation of MTEN during 4 test periods across 10 HHS regions]
+Correlation of MTEN during 4 test periods across 10 HHS regions
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
@@ -64,7 +54,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.9804 | 0.9665 | 0.9704 | 0.9180 |
 | Region 9  | 0.9126 | 0.9521 | 0.9722 | 0.9630 |
 | Region 10 | 0.9707 | 0.9627 | 0.9803 | 0.8840 |
-[Correlation of MTGP during 4 test periods across 10 HHS regions]
+Correlation of MTGP during 4 test periods across 10 HHS regions
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
@@ -78,7 +68,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.2507 | 0.2490 | 0.3321 | 0.1984 |
 | Region 9  | 0.3766 | 0.3210 | 0.2668 | 0.5572 |
 | Region 10 | 0.5816 | 0.2392 | 0.3320 | 0.2390 |
-[MAE of EN during 4 test periods across 10 HHS regions]
+MAE of EN during 4 test periods across 10 HHS regions
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
@@ -92,7 +82,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.2214 | 0.1994 | 0.2900 | 0.1691 |
 | Region 9  | 0.3266 | 0.3036 | 0.2349 | 0.5328 |
 | Region 10 | 0.5010 | 0.2446 | 0.2195 | 0.2310 |
-[MAE of GP during 4 test periods across 10 HHS regions]
+MAE of GP during 4 test periods across 10 HHS regions
 
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
@@ -107,7 +97,7 @@ And more      | With an escaped '\|'         ||
 | Region 8  |  0.2959 | 0.2111 | 0.2926 | 0.1704 |
 | Region 9  |  0.3497 | 0.3235 | 0.2793 | 0.4658 |
 | Region 10 |  0.6369 | 0.4784 | 0.4700 | 0.4597 |
-[MAE of MTEN during 4 test periods across 10 HHS regions]
+MAE of MTEN during 4 test periods across 10 HHS regions
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
@@ -121,5 +111,5 @@ And more      | With an escaped '\|'         ||
 | Region 8  | 0.3190 | 0.1639 | 0.2413 | 0.1677 |
 | Region 9  | 0.3658 | 0.2775 | 0.2931 | 0.4560 |
 | Region 10 | 0.5088 | 0.3394 | 0.4202 | 0.3147 |
-[MAE of MTGP during 4 test periods across 10 HHS regions]
+MAE of MTGP during 4 test periods across 10 HHS regions
 
