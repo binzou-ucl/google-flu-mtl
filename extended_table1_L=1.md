@@ -1,4 +1,5 @@
 Correlation of EN during 8 test periods across 10 HHS regions
+
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
 | Region 1  | 0.5361 | 0.8835 | 0.8918 | 0.7312 | 0.8981 | 0.8812 | 0.8650 | 0.8292 |
@@ -14,6 +15,7 @@ Correlation of EN during 8 test periods across 10 HHS regions
 
 
 Correlation of GP during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.9500 | 0.8634 | 0.9164 | 0.8462 |
@@ -29,6 +31,7 @@ Correlation of GP during 4 test periods across 10 HHS regions
 
 
 Correlation of MTEN during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.9641 | 0.8905 | 0.9309 | 0.8677 |
@@ -44,6 +47,7 @@ Correlation of MTEN during 4 test periods across 10 HHS regions
 
 
 Correlation of MTGP during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.9801 | 0.8785 | 0.9317 | 0.8615 |
@@ -59,6 +63,7 @@ Correlation of MTGP during 4 test periods across 10 HHS regions
 
 
 MAE of EN during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.3004 | 0.2325 | 0.2350 | 0.2345 |
@@ -74,6 +79,7 @@ MAE of EN during 4 test periods across 10 HHS regions
 
 
 MAE of GP during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.3015 | 0.2281 | 0.2255 | 0.2585 |
@@ -89,6 +95,7 @@ MAE of GP during 4 test periods across 10 HHS regions
 
 
 MAE of MTEN during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  |  0.1721 | 0.1937 | 0.2132 | 0.2237 |
@@ -104,6 +111,7 @@ MAE of MTEN during 4 test periods across 10 HHS regions
 
 
 MAE of MTGP during 4 test periods across 10 HHS regions
+
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.1784 | 0.2477 | 0.2036 | 0.2067 | 
@@ -116,5 +124,3 @@ MAE of MTGP during 4 test periods across 10 HHS regions
 | Region 8  | 0.3190 | 0.1639 | 0.2413 | 0.1677 |
 | Region 9  | 0.3658 | 0.2775 | 0.2931 | 0.4560 |
 | Region 10 | 0.5088 | 0.3394 | 0.4202 | 0.3147 |
-
-
