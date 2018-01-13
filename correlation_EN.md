@@ -1,4 +1,4 @@
-Correlation of inference of EN and CDC ILI rates when L = 5
+Pearson correlation of inference of EN and CDC ILI rates when L = 5
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
