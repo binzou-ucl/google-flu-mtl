@@ -10,7 +10,7 @@
 | Region 8  | 0.9550 | 0.9386 | 0.9583 | 0.9169 |
 | Region 9  | 0.9438 | 0.9364 | 0.9695 | 0.9375 |
 | Region 10 | 0.9564 | 0.9388 | 0.8835 | 0.8773 ||
-[Correlation of EN during 4 test periods across 10 HHS regions af]
+[Correlation of EN during 4 test periods across 10 HHS regions]
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
