@@ -1,4 +1,15 @@
-|| | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
+
+| | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.9404 | 0.8577 | 0.9193 | 0.8703 |
 | Region 2  | 0.9567 | 0.8417 | 0.9337 | 0.8482 |
@@ -9,7 +20,7 @@
 | Region 7  | 0.9680 | 0.9285 | 0.9680 | 0.9092 |
 | Region 8  | 0.9550 | 0.9386 | 0.9583 | 0.9169 |
 | Region 9  | 0.9438 | 0.9364 | 0.9695 | 0.9375 |
-| Region 10 | 0.9564 | 0.9388 | 0.8835 | 0.8773 ||
+| Region 10 | 0.9564 | 0.9388 | 0.8835 | 0.8773 |
 [Correlation of EN during 4 test periods across 10 HHS regions]
 
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
