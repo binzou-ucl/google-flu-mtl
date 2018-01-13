@@ -1,4 +1,3 @@
-| Pearson correlation of inference of EN and CDC ILI rates when L = 5 |
 | | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  |
 | Region 1  | 0.9404 | 0.8577 | 0.9193 | 0.8703 |
