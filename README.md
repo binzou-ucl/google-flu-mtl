@@ -1,4 +1,4 @@
-# Multitask Learning for Improving Disease Modeling from Web Search Data
+# Multi-Task Learning for Improving Disease Modeling from Web Search
 
 Here we provide some supplementary material for the paper Multi-Task Learning for Improving Disease Modeling from Web Search [1].
 
