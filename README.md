@@ -1,7 +1,8 @@
 # Multi-Task Learning for Improving Disease Modeling from Web Search
 
 Here we provide supplementary material for the paper:
-<div style="padding-left:30px">
+
+<div style="margin-left:100px">
 Bin Zou, Vasileios Lampos and Ingemar J. Cox (2018). Multi-Task Learning for Improving Disease Modeling from Web Search. The Web Conference '18.
 </div>
 
