@@ -1,9 +1,8 @@
-# Multi-Task Learning for Improving Disease Modeling from Web Search
-
 Here we provide supplementary material for the paper:
 
-  Bin Zou, Vasileios Lampos and Ingemar J. Cox (2018). Multi-Task Learning for Improving Disease Modeling from Web Search. 
-  The Web Conference '18 (Lyon, France).
+<blockquote>
+Bin Zou, Vasileios Lampos and Ingemar J. Cox (2018). <strong>Multi-Task Learning for Improving Disease Modeling from Web Search</strong>. The Web Conference '18 (Lyon, France).
+</blockquote>
 
 The page <a href="https://raw.githubusercontent.com/binzou-ucl/google-flu-mtl/master/queries.csv">queries.csv</a> lists all the search queries considered in our experiments together with their similarity score to the specified flu context (see Section 3.1 of the paper for more information).
 
