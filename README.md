@@ -10,4 +10,4 @@ Lists all the search queries considered in our experiments together with their s
 
 <a href="https://github.com/binzou-ucl/google-flu-mtl/blob/master/extended-table1-L%3D1.md"><strong>Table 1 expanded</strong></a>
 <br />
-Presents an expanded version of Table 1 in our paper, where we show detailed performance results for all 10 US regions during the 4 test periods, using L = 1 years of training data.
+Presents an expanded version of Table 1 in our paper, where we show detailed performance results for all 10 US regions during the 4 test periods, using L = 1 year of training data.
