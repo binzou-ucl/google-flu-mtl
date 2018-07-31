@@ -15,7 +15,7 @@
 
 <br><br>
 
-**Correlation of GP during 4 test periods across 10 HHS regions**
+**Correlation of GP during 8 test periods across 10 HHS regions**
 
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
@@ -32,7 +32,7 @@
 
 <br><br>
 
-**Correlation of MTEN during 4 test periods across 10 HHS regions**
+**Correlation of MTEN during 8 test periods across 10 HHS regions**
 
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
@@ -49,7 +49,7 @@
 
 <br><br>
 
-**Correlation of MTGP during 4 test periods across 10 HHS regions**
+**Correlation of MTGP during 8 test periods across 10 HHS regions**
 
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
@@ -66,7 +66,7 @@
 
 <br><br>
 
-**MAE of EN during 4 test periods across 10 HHS regions**
+**MAE of EN during 8 test periods across 10 HHS regions**
 
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
@@ -83,7 +83,7 @@
 
 <br><br>
 
-**MAE of GP during 4 test periods across 10 HHS regions**
+**MAE of GP during 8 test periods across 10 HHS regions**
 
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
@@ -117,7 +117,7 @@
 
 <br><br>
 
-**MAE of MTGP during 4 test periods across 10 HHS regions**
+**MAE of MTGP during 8 test periods across 10 HHS regions**
 
 | | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 |
 | :---      | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
