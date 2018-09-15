@@ -1,4 +1,4 @@
-Here we provide supplementary material for the paper:
+Here we provide the supplementary material for the paper:
 
 <blockquote>
 Bin Zou, Vasileios Lampos and Ingemar J. Cox (2018). <strong>Multi-Task Learning for Improving Disease Modeling from Web Search</strong>. The Web Conference '18 (Lyon, France).
